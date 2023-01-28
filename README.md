@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kartikgandhi76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AmcPmvS-vFm1Pi5CPktS-MXJXXVgu-e7/view?usp=sharing](https://drive.google.com/file/d/1AmcPmvS-vFm1Pi5CPktS-MXJXXVgu-e7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12tYEJLghqmvQD4Tjhsf2RZ5RBr3VZiR6/view?usp=sharing](https://drive.google.com/file/d/12tYEJLghqmvQD4Tjhsf2RZ5RBr3VZiR6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
