@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **MERN Stack Projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Blockchain Technology**
 
 - 💬 Ask me about **C++,C,JavaScript,MongoDb,Express,React,Node,MySQL,HTML,CSS**
 
