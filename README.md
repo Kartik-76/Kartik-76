@@ -1,22 +1,22 @@
 
 <img align="right" alt = "Coding" width="100%" height="300" src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif">
 <h1 align="center">Hi 👋, I'm Kartik Gandhi</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt = "Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartik-76&label=Profile%20views&color=0e75b6&style=flat" alt="kartik-76" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **DOT NET Full Stack Projects**
 
-- 🌱 I’m currently learning **React and Blockchain Technology**
+- 🌱 I’m currently learning **ASP Dot Net Core 6 || Angular**
 
-- 💬 Ask me about **C++ Programming, C Programming, java Programming, MongoDB, Express, Reactjs, NodeJs, MySQL **
+- 💬 Ask me about **ASP .NET Core 6, C++ Programming, C Programming, C# Programing, MongoDB, Express, React, Node, Angular CLI, MySQL, SQL Server**
 
 - 📫 How to reach me **kartikgandhi76@gmail.com**
 
-- 📄 Know about my experiences [[View Resume](https://shorturl.at/fjnw9)]
+- 📄 Know about my experiences [[View Resume](https://drive.google.com/file/d/1RgHeSIarcReaQpd2vQwED8WxVt4ND81g/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
